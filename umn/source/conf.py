@@ -110,7 +110,7 @@ html_copy_source = False
 latex_documents = [
     ('index',
      'rfs-umn.tex',
-     u'Resource Formation Service - User Guide',
+    u'Resource Formation Service - User Guide',
      u'OpenTelekomCloud', 'manual'),
 ]
 
