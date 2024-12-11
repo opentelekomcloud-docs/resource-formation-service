@@ -110,7 +110,7 @@ html_copy_source = False
 latex_documents = [
     ('index',
      'rfs-api-ref.tex',
-     u'Resource Formation Service - API Reference',
+    u'Resource Formation Service - API Reference',
      u'OpenTelekomCloud', 'manual'),
 ]
 
