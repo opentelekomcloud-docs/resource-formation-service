@@ -4,8 +4,4 @@ resource-formation-service
 
 RFS Documentation
 
-Please fill here a long description which must be at least 3 lines wrapped on
-80 cols, so that distribution package maintainers can use it in their packages.
-Note that this is a hard requirement.
-
-* Free software: Apache license
+With Resource Formation Service, you can manage system and service resources (all physical or logical entities that can be located and described, such as databases, VPCs, pipelines, and IAM roles). You can automatically deploy specified cloud service resources based on the template which uses the HCL (an open ecosystem) syntax.
