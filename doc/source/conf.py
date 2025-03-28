@@ -36,7 +36,7 @@ otcdocs_doc_environment = ''
 otcdocs_doc_link = ''
 otcdocs_doc_title = ''
 otcdocs_doc_type = ''
-otcdocs_service_category = 'application'
+otcdocs_service_category = 'md'
 otcdocs_service_title = 'Resource Formation Service'
 otcdocs_service_type = 'rfs'
 otcdocs_search_environment = 'hc_de'
@@ -90,6 +90,7 @@ html_theme = 'otcdocs'
 # further. For a list of options available for each theme, see the
 # documentation.
 html_theme_options = {
+    "logo_url": "https://docs.otc.t-systems.com",
 }
 
 # The name for this set of Sphinx documents.  If None, it defaults to

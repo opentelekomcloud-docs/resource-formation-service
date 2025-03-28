@@ -35,7 +35,7 @@ otcdocs_doc_environment = 'public'
 otcdocs_doc_link = '/resource-formation-service/api-ref/'
 otcdocs_doc_title = 'API Reference'
 otcdocs_doc_type = 'api-ref'
-otcdocs_service_category = 'application'
+otcdocs_service_category = 'md'
 otcdocs_service_title = 'Resource Formation Service'
 otcdocs_service_type = 'rfs'
 otcdocs_search_environment = 'hc_de'
@@ -89,6 +89,7 @@ html_theme = 'otcdocs'
 # further. For a list of options available for each theme, see the
 # documentation.
 html_theme_options = {
+    "logo_url": "https://docs.otc.t-systems.com",
 }
 
 # The name for this set of Sphinx documents.  If None, it defaults to
